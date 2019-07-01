@@ -1,0 +1,139 @@
+{
+  "pphpasal22" : [
+    {
+      "id" : 1,
+      "soal" : "Dibawah ini daftar barang yang tergolong sangat mewah berdasarkan Peraturan Dirjen Pajak Nomor 19/PJ/2015, yaitu…..",
+      "jawabana" :  "Rumah beserta tanahnya dengan harga jual kurang dari Rp5.000.000.000,- atau luas bangunan lebih dari 400 m2 ",
+      "jawabanb" :  "Kapal pesiar, yacht, dan sejenisnya",
+      "jawabanc" :  "Kendaraan bermotor roda dua dan roda tiga harga jual lebih dari Rp30.000.000,- ",
+      "jawaband" :  "Kendaraan bermotor roda empat pengangkutan orang kurang dari 4 orang",
+      "kuncijawaban" : "jawabanb"
+    },
+    { 
+      "id" : 2,
+      "soal" : "Apa saja kegiatan impor barang yang dibebaskan dari pungutan Bea Masuk dan/atau Pajak Pertambahan Nilai, kecuali…..",
+      "jawabana" :  "Barang pindahan",
+      "jawabanb" :  "Persenjataan, amunisi, dan perlengkapan militer",
+      "jawabanc" :  "Barang untuk keperluan badan nasional",
+      "jawaband" :  "Barang yang diimpor oleh Pemerintah Pusat atau Pemerintah Daerah yang ditunjukkan untuk kepentingan umum",
+      "kuncijawaban" : "jawabanc"
+    },
+    { 
+      "id" : 3,
+      "soal" : "Kapan saat terutangnya PPh Pasal 22 atas impor barang?",
+      "jawabana" :  "Pada saat penyelesaian dokumen Pemberitahuan Impor Barang (PIB)",
+      "jawabanb" :  "Pada saat pembayaran",
+      "jawabanc" :  "Pada saat penjualan",
+      "jawaband" :  "Pada saat penerbitan Surat Perintah Pengeluaran Barang",
+      "kuncijawaban" : "jawabana"
+    },
+    { 
+      "id" : 4,
+      "soal" : "Berapa besarnya tarif pajak untuk impor barang atas kedelai, gandum, dan tepung terigu?",
+      "jawabana" :  "2,5%",
+      "jawabanb" :  "0,5%",
+      "jawabanc" :  "1,5%",
+      "jawaband" :  "5%",
+      "kuncijawaban" : "jawabanb"
+    },
+    { 
+      "id" : 5,
+      "soal" : "Bagaimana cara menghitung PPh Pasal 22?",
+      "jawabana" :  "Tarif x Pajak Pertambahan Nilai",
+      "jawabanb" :  "Tarif x Penghasilan bruto",
+      "jawabanc" :  "Tarif x Penghasilan neto",
+      "jawaband" :  "Tarif x Dasar Pengenaan Pajak",
+      "kuncijawaban" : "jawaband"
+    },
+    { 
+      "id" : 6,
+      "soal" : "Berapaah besarnya tarif PPh Pasal 22 atas ekspor komoditas tambang batubara, mineral logam, dan mineral bukan logam yang dilakukan oleh eksportir kecuali yang dilakukan oleh Wajib Pajak yang terikat dalam perjanjian kerja sama pengusahaan pertambangan dan kontrak karya?",
+      "jawabana" :  "1,5% x harga beli",
+      "jawabanb" :  "1,5% x nilai ekspor",
+      "jawabanc" :  "7,5% x nilai ekspor",
+      "jawaband" :  "7,5% x harga beli",
+      "kuncijawaban" : "jawabanb"
+    },
+    { 
+      "id" : 7,
+      "soal" : "Pada Januari 2016, PT Pasti Rindu menjual semen hasil produksi semen kepada PT Bangunan Tinggi (salah satu distributor). Total harga termasuk PPN sebesar Rp1.650.000.000,- Berapakah besarnya PPh Pasal 22 yang dipungut PT Pasti Rindu?",
+      "jawabana" :  "Rp7.350.000,-",
+      "jawabanb" :  "Rp5.370.000,-",
+      "jawabanc" :  "Rp3.750.000,-",
+      "jawaband" :  "Rp3.570.000,-",
+      "kuncijawaban" : "jawabanc"
+    },
+    { 
+      "id" : 8,
+      "soal" : "Bendahara Pengeluaran Dinas Pertanian Kabupaten A pada 10 Juli 2016 melakukan pembayaran atas pembelian alat tulis kantor dari Toko Gaya senilai Rp2.100.000,- (termasuk PPN 10%). Pembayaran dilakukan menggunakan uang persediaan. Berapakah besarnya PPh Pasal 22 yang dipungut oleh bendahara tersebut?",
+      "jawabana" :  "Rp1.999.000,-",
+      "jawabanb" :  "Rp1.090.909,-",
+      "jawabanc" :  "Rp1.909.090,-",
+      "jawaband" :  "Tidak dikenakan pajak",
+      "kuncijawaban" : "jawaband"
+    },
+    { 
+      "id" : 9,
+      "soal" : "Pada Maret 2016, PT Herbal menjual hasil produksi obat kepada PT Sehat Uye (salah satu distributor). Nilai penjualan Rp110.000.000,- (termasuk PPN). Berapa besarnya PPh Pasal 22 yang dipungut PT Herbal?",
+      "jawabana" :  "Rp300.000,-",
+      "jawabanb" :  "Rp350.000,-",
+      "jawabanc" :  "Rp530.000,-",
+      "jawaband" :  "Rp600.000,-",
+      "kuncijawaban" : "jawabana"
+    },
+    { 
+      "id" : 10,
+      "soal" : "Apa yang dimaksud dengan Dasar Pengenaan Pajak?",
+      "jawabana" :  "Nilai berupa uang yang menjadi dasar perhitungan bea masuk",
+      "jawabanb" :  "Nilai Free on Board (FoB)",
+      "jawabanc" :  "Dapat berupa harga pembelian atau harga penjualan, merupakan nilai atau harga tertentu yang menjadi hak pengusaha kena pajak atau penjual. ",
+      "jawaband" :  "Biaya asuransi antar-daerah pabean",
+      "kuncijawaban" : "jawabanc"
+    },
+    { 
+      "id" : 11,
+      "soal" : " Jika harga pembelian/penjualan tidak termasuk PPN dan/atau PPnBM, besarnya DPP PPN yaitu…..",
+      "jawabana" :  "Harga pembelian atau penjualan",
+      "jawabanb" :  "(100/110) x harga pembelian atau penjualan",
+      "jawabanc" :  "[100/(110 + tarif PPnBM)] x harga pembelian atau penjualan",
+      "jawaband" :  "Semua jawaban salah",
+      "kuncijawaban" : "jawabana"
+    },
+    { 
+      "id" : 12,
+      "soal" : "Berapa besarnya tarif PPh Pasal 22 atas pembelian barang oleh bendahara pemerintah dan KPA? ",
+      "jawabana" :  "1,5% x harga beli",
+      "jawabanb" :  "1,5% x nilai ekspor",
+      "jawabanc" :  "7,5% x nilai ekspor",
+      "jawaband" :  "7,5% x harga beli",
+      "kuncijawaban" : "jawabana"
+    },
+    { 
+      "id" : 13,
+      "soal" : "Berapa besarnya tarif PPh Pasal 22 atas pembelian bahan-bahan untuk keperluan industry atau eksportirnya?",
+      "jawabana" :  "0,3%",
+      "jawabanb" :  "0,1%",
+      "jawabanc" :  "0,45%",
+      "jawaband" :  "0,25%",
+      "kuncijawaban" : "jawaband"
+    },
+    { 
+      "id" : 14,
+      "soal" : "Pasal 22 ayat (1) UU PPh menyatakan bahwa Menteri Keuangan dapat menetapkan hal-hal berikut ini…..",
+      "jawabana" :  "Bendahara pemerintah untuk memungut pajak sehubunga dengan pembayaran atas penyerahan barang",
+      "jawabanb" :  "Wajib pajak badan tertentu untuk memungut pajak dari pembeli atas pembelian barang yang tergolong sangat mewah",
+      "jawabanc" :  "Badan-badan tertentu yang memungut pajak dari Wajib Pajak yang melakukan kegiatan di bidang impor atau kegiatan usaha di bidang lain",
+      "jawaband" :  "Semua jawaban benar",
+      "kuncijawaban" : "jawaband"
+    },
+    { 
+      "id" : 15,
+      "soal" : "PPh Pasal 22 berlandaskan hukum, kecuali…..",
+      "jawabana" :  "PMK No. 154/PMK.03/2010",
+      "jawabanb" :  "Pasal 22 Undang-Undang Pajak Penghasilan",
+      "jawabanc" :  "PMK No. 253/PMK.03/2008",
+      "jawaband" :  "PMK No. 235/PMK.03/2008",
+      "kuncijawaban" : "jawaband"
+    }
+  ]
+}
