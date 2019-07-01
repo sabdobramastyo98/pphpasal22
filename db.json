@@ -7,7 +7,7 @@
       "jawabanb" :  "Kapal pesiar, yacht, dan sejenisnya",
       "jawabanc" :  "Kendaraan bermotor roda dua dan roda tiga harga jual lebih dari Rp30.000.000,- ",
       "jawaband" :  "Kendaraan bermotor roda empat pengangkutan orang kurang dari 4 orang",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "Kapal pesiar, yacht, dan sejenisnya"
     },
     { 
       "id" : 2,
@@ -16,7 +16,7 @@
       "jawabanb" :  "Persenjataan, amunisi, dan perlengkapan militer",
       "jawabanc" :  "Barang untuk keperluan badan nasional",
       "jawaband" :  "Barang yang diimpor oleh Pemerintah Pusat atau Pemerintah Daerah yang ditunjukkan untuk kepentingan umum",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "Barang untuk keperluan badan nasional"
     },
     { 
       "id" : 3,
@@ -25,7 +25,7 @@
       "jawabanb" :  "Pada saat pembayaran",
       "jawabanc" :  "Pada saat penjualan",
       "jawaband" :  "Pada saat penerbitan Surat Perintah Pengeluaran Barang",
-      "kuncijawaban" : "jawabana"
+      "kuncijawaban" : "Pada saat penyelesaian dokumen Pemberitahuan Impor Barang (PIB)"
     },
     { 
       "id" : 4,
@@ -34,7 +34,7 @@
       "jawabanb" :  "0,5%",
       "jawabanc" :  "1,5%",
       "jawaband" :  "5%",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "0,5%"
     },
     { 
       "id" : 5,
@@ -43,7 +43,7 @@
       "jawabanb" :  "Tarif x Penghasilan bruto",
       "jawabanc" :  "Tarif x Penghasilan neto",
       "jawaband" :  "Tarif x Dasar Pengenaan Pajak",
-      "kuncijawaban" : "jawaband"
+      "kuncijawaban" : "Tarif x Dasar Pengenaan Pajak"
     },
     { 
       "id" : 6,
@@ -52,7 +52,7 @@
       "jawabanb" :  "1,5% x nilai ekspor",
       "jawabanc" :  "7,5% x nilai ekspor",
       "jawaband" :  "7,5% x harga beli",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "1,5% x nilai ekspor"
     },
     { 
       "id" : 7,
@@ -61,7 +61,7 @@
       "jawabanb" :  "Rp5.370.000,-",
       "jawabanc" :  "Rp3.750.000,-",
       "jawaband" :  "Rp3.570.000,-",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "Rp3.750.000,-"
     },
     { 
       "id" : 8,
@@ -70,7 +70,7 @@
       "jawabanb" :  "Rp1.090.909,-",
       "jawabanc" :  "Rp1.909.090,-",
       "jawaband" :  "Tidak dikenakan pajak",
-      "kuncijawaban" : "jawaband"
+      "kuncijawaban" : "Tidak dikenakan pajak"
     },
     { 
       "id" : 9,
@@ -79,7 +79,7 @@
       "jawabanb" :  "Rp350.000,-",
       "jawabanc" :  "Rp530.000,-",
       "jawaband" :  "Rp600.000,-",
-      "kuncijawaban" : "jawabana"
+      "kuncijawaban" : "Rp300.000,-"
     },
     { 
       "id" : 10,
@@ -88,7 +88,7 @@
       "jawabanb" :  "Nilai Free on Board (FoB)",
       "jawabanc" :  "Dapat berupa harga pembelian atau harga penjualan, merupakan nilai atau harga tertentu yang menjadi hak pengusaha kena pajak atau penjual. ",
       "jawaband" :  "Biaya asuransi antar-daerah pabean",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "Dapat berupa harga pembelian atau harga penjualan, merupakan nilai atau harga tertentu yang menjadi hak pengusaha kena pajak atau penjual. "
     },
     { 
       "id" : 11,
@@ -97,7 +97,7 @@
       "jawabanb" :  "(100/110) x harga pembelian atau penjualan",
       "jawabanc" :  "[100/(110 + tarif PPnBM)] x harga pembelian atau penjualan",
       "jawaband" :  "Semua jawaban salah",
-      "kuncijawaban" : "jawabana"
+      "kuncijawaban" : "Harga pembelian atau penjualan"
     },
     { 
       "id" : 12,
@@ -106,7 +106,7 @@
       "jawabanb" :  "1,5% x nilai ekspor",
       "jawabanc" :  "7,5% x nilai ekspor",
       "jawaband" :  "7,5% x harga beli",
-      "kuncijawaban" : "jawabana"
+      "kuncijawaban" : "1,5% x harga beli"
     },
     { 
       "id" : 13,
@@ -115,7 +115,7 @@
       "jawabanb" :  "0,1%",
       "jawabanc" :  "0,45%",
       "jawaband" :  "0,25%",
-      "kuncijawaban" : "jawaband"
+      "kuncijawaban" : "0,25%"
     },
     { 
       "id" : 14,
@@ -124,7 +124,7 @@
       "jawabanb" :  "Wajib pajak badan tertentu untuk memungut pajak dari pembeli atas pembelian barang yang tergolong sangat mewah",
       "jawabanc" :  "Badan-badan tertentu yang memungut pajak dari Wajib Pajak yang melakukan kegiatan di bidang impor atau kegiatan usaha di bidang lain",
       "jawaband" :  "Semua jawaban benar",
-      "kuncijawaban" : "jawaband"
+      "kuncijawaban" : "Semua jawaban benar"
     },
     { 
       "id" : 15,
@@ -133,7 +133,7 @@
       "jawabanb" :  "Pasal 22 Undang-Undang Pajak Penghasilan",
       "jawabanc" :  "PMK No. 253/PMK.03/2008",
       "jawaband" :  "PMK No. 235/PMK.03/2008",
-      "kuncijawaban" : "jawaband"
+      "kuncijawaban" : "PMK No. 235/PMK.03/2008"
     }
   ]
 }
